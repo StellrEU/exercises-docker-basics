@@ -1,0 +1,2 @@
+docker build -t ract-app .
+docker run -p 5001:5001 react-app
